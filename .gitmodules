@@ -1,0 +1,3 @@
+[submodule "Manthan"]
+	path = Manthan
+	url = https://github.com/attribsolutions/Manthan.git
