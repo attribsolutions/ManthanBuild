@@ -2,8 +2,13 @@
   "files": {
     "main.css": "/static/css/main.9345b6b2.chunk.css",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "main.js": "/static/js/main.cde36773.chunk.js",
     "main.js.map": "/static/js/main.cde36773.chunk.js.map",
+=======
+    "main.js": "/static/js/main.c1ce7538.chunk.js",
+    "main.js.map": "/static/js/main.c1ce7538.chunk.js.map",
+>>>>>>> parent of 8bb7ac0 (build file)
 =======
     "main.js": "/static/js/main.c1ce7538.chunk.js",
     "main.js.map": "/static/js/main.c1ce7538.chunk.js.map",
@@ -42,7 +47,11 @@
     "static/js/2.d1cbe988.chunk.js",
     "static/css/main.9345b6b2.chunk.css",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "static/js/main.cde36773.chunk.js"
+=======
+    "static/js/main.c1ce7538.chunk.js"
+>>>>>>> parent of 8bb7ac0 (build file)
 =======
     "static/js/main.c1ce7538.chunk.js"
 >>>>>>> parent of 8bb7ac0 (build file)
